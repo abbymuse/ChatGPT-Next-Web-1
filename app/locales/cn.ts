@@ -4,11 +4,11 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "欢迎来到我的AI私人助理,我们采用GPT-3.5代码开发,您所有对话信息将保留在个人手机中。请关注公众号:我的AI私人助理,申请会员后点击[登录](/#/auth)页输入正确的访问密码，并在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "我是你的AI私人助理GPT-Abby,我采用GPT-3.5代码开发,辅助您的各项工作，私密安全，对话信息只储存在个人手机中。点击[登录](/#/auth)页输入正确的访问密码，并在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
   },
   Auth: {
-    Title: "需要密码",
-    Tips: "关注《我的AI私人助理》,获取访问码",
+    Title: "需要访问码",
+    Tips: "联系GPT-Abby,获取访问码",
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
