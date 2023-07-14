@@ -5,7 +5,7 @@ import "./styles/highlight.scss";
 import { getClientConfig } from "./config/client";
 
 export const metadata = {
-  title: "我的AI私人助理GPT",
+  title: "二公院投资公司GPT",
   description: "ChatGPT Abby",
   viewport: {
     width: "device-width",

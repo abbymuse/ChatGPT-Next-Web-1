@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "我是你的AI私人助理GPT-Abby,我采用GPT-3.5代码开发,辅助您的各项工作，对话信息只私密储存在个人手机中。点击[登录](/#/auth)并在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "我是二公院投资公司GPT,我采用GPT-3.5代码开发,辅助您的各项工作，对话信息只私密储存在个人手机中。点击[登录](/#/auth)并在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
   },
   Auth: {
     Title: "需要访问码",
